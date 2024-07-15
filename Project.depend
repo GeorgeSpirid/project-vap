@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1704999454 source:c:\users\spiri\onedrive\documents\coding\c\basikes arxes programmatismou\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"project2023a.h"
+
+1705062116 c:\users\spiri\onedrive\documents\coding\c\basikes arxes programmatismou\project\project2023a.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
